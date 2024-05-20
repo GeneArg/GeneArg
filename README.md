@@ -27,6 +27,7 @@ I'm currently diving deep into the world of coding at 42 Bangkok, where I'm honi
 <div align="center">
   <h3><i>“Code is like humor. When you have to explain it, it’s bad.”</i></h3>
 </div>
+
 ---
 
 ## 📊 GitHub Stats
