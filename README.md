@@ -39,3 +39,7 @@ I'm always excited to meet new people and collaborate on interesting projects. F
 ---
 
 ![Coding Gif](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
+
+<div align="center">
+  <h3><i>“Code is like humor. When you have to explain it, it’s bad.”</i></h3>
+</div>
