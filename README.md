@@ -24,6 +24,9 @@ I'm currently diving deep into the world of coding at 42 Bangkok, where I'm honi
 - 🎮 **Gamer:** When I need a break from coding, I like to play video games. My favorite? Anything that doesn't require too many dad reflexes.
 - 🌙 **Student Life:** As a 42 Bangkok student, I've mastered the art of late-night coding sessions powered by caffeine and good music.
 
+<div align="center">
+  <h3><i>“Code is like humor. When you have to explain it, it’s bad.”</i></h3>
+</div>
 ---
 
 ## 📊 GitHub Stats
@@ -39,7 +42,3 @@ I'm always excited to meet new people and collaborate on interesting projects. F
 ---
 
 ![Coding Gif](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
-
-<div align="center">
-  <h3><i>“Code is like humor. When you have to explain it, it’s bad.”</i></h3>
-</div>
