@@ -35,6 +35,5 @@ I'm currently diving deep into the world of coding at 42 Bangkok, where I'm honi
 I'm always excited to meet new people and collaborate on interesting projects. Feel free to reach out to me via email [yvgeni929@gmail.com](mailto:yvgeni929@gmail.com).
 
 ---
-<div align="center">
+
 ![Coding Gif](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
-</div>
